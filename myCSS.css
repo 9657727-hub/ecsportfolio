@@ -33,6 +33,7 @@ body {
 .content {
 	background: #A491DB;
 	margin: 10px;
+	padding: 5;
 	float: left;
 	width: 100%;
 	text-align: left;
